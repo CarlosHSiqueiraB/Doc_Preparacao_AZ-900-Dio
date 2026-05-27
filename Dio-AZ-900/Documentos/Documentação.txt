@@ -44,8 +44,22 @@ Palavras Chaves:
 . EX: Microsoft 365
 . Você só se importa com as funcionalidades do sistema, você paga a assinatura e aproveita o sistema 
 
+27/05/2026 - Tipos de Serviço em Nuvem
+Palavras Chaves:
 - Região Soberana
 . Na China, todos os servers de lá são restritos, e são gerenciados pela 21vianet
 . Nos EUA, a região soberana são restritas ao governo e forças militares
+
+- Assinaturas
+. Uma conta pode ter várias assinaturas, mas uma assinatura só pode ser associada a uma conta
+. Grandes empresas costumam ter várias assinaturas por times, EX: Time de produção, Desenvolvimento e Teste usam assinaturas diferentes
+. Associe a Casas, uma pessoa pode ter quantas casas e carros ela quiser, mas o carro e a casa só podem ter um dono
+. Pra cada assinatura, é gerado uma fatura diferente, isso separa quem paga a conta na organização(empresa)
+
+- Grupos de Gerenciamento
+. Os grupos de gerenciamento dá padrões de configurações pra assinaturas
+. Caso eu compre uma outra empresa, posso colocar uma assinatura no meu grupo de gerenciamento e padronizar essa chave
+
+
 
 
