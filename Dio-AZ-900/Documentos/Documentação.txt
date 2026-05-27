@@ -26,3 +26,23 @@ Palavras chaves:
 - Gerenciabilidade
 . Gerenciabilidade é a possibilidade de fazer várias formas de gerenciar sua nuvem, gerenciar suas regras e esses tipos de detalhes
 . Ex: Escalar uma implementação de recursos de forma automática, tipo o espaço de armazenamento
+
+27/05/2026 - Tipos de Serviço em Nuvem
+Palavras Chaves:
+- IAAS
+. Alto Controle e Personalização
+. Estrutura de pagamento conforme o uso
+. Aluga Servers, Armazenamento e outras coisas de um provedor de nuvem
+. Toda configuração é sua responsabilidade
+
+- PAAS
+. Posso ter a opção de parar de me preocupar com o servidor, e focar apenas na aplicação
+. Posso criar vários tipos de ambiente, me desprendendo do sistema operacional, ex: Criando Banco de dados na nuvem
+
+- SAAS
+. Aplicações que já existem e funcionam por licença
+. EX: Microsoft 365
+. Você só se importa com as funcionalidades do sistema, você paga a assinatura e aproveita o sistema 
+
+
+
