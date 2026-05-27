@@ -44,5 +44,8 @@ Palavras Chaves:
 . EX: Microsoft 365
 . Você só se importa com as funcionalidades do sistema, você paga a assinatura e aproveita o sistema 
 
+- Região Soberana
+. Na China, todos os servers de lá são restritos, e são gerenciados pela 21vianet
+. Nos EUA, a região soberana são restritas ao governo e forças militares
 
 
