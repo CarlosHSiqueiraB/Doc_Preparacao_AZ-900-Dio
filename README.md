@@ -1,5 +1,5 @@
-👨‍💻 Carlos Henrique Siqueira Borges
-☁️ Repositório de Estudos — Certificação AZ-900
+#👨‍💻 Carlos Henrique Siqueira Borges
+#☁️ Repositório de Estudos — Certificação AZ-900
 
 Bem-vindo ao meu repositório de estudos para a certificação Microsoft Azure Fundamentals (AZ-900) da Microsoft.
 
