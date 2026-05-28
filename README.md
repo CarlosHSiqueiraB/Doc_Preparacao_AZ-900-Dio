@@ -2,7 +2,7 @@
 
 # ☁️ Repositório de Estudos — Certificação AZ-900
 
-Bem-vindo ao meu repositório de estudos para a certificação **Microsoft Azure Fundamentals (AZ-900)** com a Digital Inovation One - DIO.
+Bem-vindo ao meu repositório de estudos para a certificação **Microsoft Azure Fundamentals (AZ-900)** com a Digital Innovation One - DIO.
 
 Este projeto foi criado para documentar meus estudos em computação em nuvem, fundamentos do Azure, redes, segurança e infraestrutura.
 
