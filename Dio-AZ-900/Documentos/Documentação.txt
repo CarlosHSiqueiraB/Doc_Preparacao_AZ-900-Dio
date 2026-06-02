@@ -60,6 +60,9 @@ Palavras Chaves:
 . Os grupos de gerenciamento dá padrões de configurações pra assinaturas
 . Caso eu compre uma outra empresa, posso colocar uma assinatura no meu grupo de gerenciamento e padronizar essa chave
 
-
+02/06/2026 - Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+Dicas importantes:
+. VM área de discos, habilidar a exclusão com vm para evitar ficar gastando disco sem uma vm: Excluir com VM
+. VM área de redes, habilitar exclusão de nic quando a vm for excluida, pelo mesmo motivo de cima: Excluir a NIC quando a VM for excluída
 
 
