@@ -72,11 +72,17 @@ Palavras Chaves:
 . GRS: Armazenamento com Redundância Geográfica: Implanta no Datacenter da região primária e segundária - Similar ao LRS, mas com a diferença que tenho cópias em outras regiões, então se algo acontecer, duas regiões diferentes devem cair: Durabilidade = 16
 . GZRS: Mistura do GRS com LRS
 
-. Blob do Azure: Otimizado pra uma quantidade massiva de dados não estruturados e texto ou binário
-. Disco do Azure: São o armazenamento das máquinas virtuais, para apps e outros serviços acessarem/usar
-. Fila do Azure: Serviço de armazenamento de mensagens, que oferece recuperação para quantidades massivas de mensagens, de até 64kb por cada
-. Arquivos do Azure: Configura um compartilhamento de arquivos de redes que pode ser utilizado usando o protocolo Bloco de Mensagens do Servidor
+. Blob do Azure: Otimizado pra uma quantidade massiva de dados não estruturados e texto ou binário 
+. Disco do Azure: São o armazenamento das máquinas virtuais, para apps e outros serviços acessarem/usar 
+. Fila do Azure: Serviço de armazenamento de mensagens, que oferece recuperação para quantidades massivas de mensagens, de até 64kb por cada 
+. Arquivos do Azure: Configura um compartilhamento de arquivos de redes que pode ser utilizado usando o protocolo Bloco de Mensagens do Servidor 
 . Tabela do Azure: Fornece uma opção de chave/atributo para o armazenamento de dados Estruturados não relacionais com um design sem esquema
+
+- Migração de Dados
+. Azure DataBox - Aguenta 80TB e faz migração de um servidor físico para núvem, alguém busca os dados com ele de forma física e depois faz a migração
+. AzCopy - É utilitário de linha de comando para copiar Blops e Arquivos para sua conta de armazenamento, é muito bom para fazer migrações menores, que não necessitam de um DataBox
+. Gerenciador de Armazenamento do Azure - É uma interface gráfica do Azure, bem similar ao Windows Explorer, onde podemos fazer a cópia e a movimentação: Usa o AzCopy por trás dos panos
+
 
 
 
