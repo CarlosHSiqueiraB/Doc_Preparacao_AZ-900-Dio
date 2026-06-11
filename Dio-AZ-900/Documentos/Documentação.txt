@@ -65,4 +65,14 @@ Dicas importantes:
 . VM área de discos, habilidar a exclusão com vm para evitar ficar gastando disco sem uma vm: Excluir com VM
 . VM área de redes, habilitar exclusão de nic quando a vm for excluida, pelo mesmo motivo de cima: Excluir a NIC quando a VM for excluída
 
+11/06/2026 - Armazenamento do Azure
+Palavras Chaves:
+. LRS: Armazenamento com Redundância Local: Implantado no Datacenter individual da região primária - As 3 cópias estão no mesmo datacenter, então se algo acontecer, dá ruim: Durabilidade = 11 Noves
+. ZRS: Armazenamento com Redundância de Zona: Implantado nas 3 zonas de disponibilidade da região primária - As cópias estão divididas entre 3 datacenter, então pra algo acontecer, minha região inteira deve cair: Durabilidade = 12
+. GRS: Armazenamento com Redundância Geográfica: Implanta no Datacenter da região primária e segundária - Similar ao LRS, mas com a diferença que tenho cópias em outras regiões, então se algo acontecer, duas regiões diferentes devem cair: Durabilidade = 16
+. GZRS: Mistura do GRS com LRS
+
+. Blob Azure: Otimizado pra uma quantidade massiva de dados não estruturados e texto ou binário
+
+
 
